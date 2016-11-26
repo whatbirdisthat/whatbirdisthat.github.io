@@ -39,7 +39,7 @@ All this is *Testing*. A miniature Bullmer stomps about on my blog-stage ranting
 diluted as to be pretty much meaningless now.
 
 
-YES! We need to TEST!!
+## YES! We need to TEST!!
 
 Now we have agreed that we need to test, the business asks that we undergo a 
 transformation. Developers, please use TDD to develop your work.
@@ -60,14 +60,14 @@ is layers of implementation - and each layer is ... "tested" using a slightly
 different protocol.
 
 ## A rant...
-TDD, BDD, ATDD, CDD ... All these things exist because thought-leaders have found
-that they needed a slightly different pattern to provide confidence in the area
-they were working on at the time.
-
-TDD is for units. Bottom up. xUnit.
-BDD is for features. Top down. Cukes, Spock.
-ATDD is for Teams - cycles of BDD/TDD to provide completion insight. Scrum/XP.
-CDD is for integration proofing. Pact, Wiremock.
+    TDD, BDD, ATDD, CDD ... All these things exist because thought-leaders have found
+    that they needed a slightly different pattern to provide confidence in the area
+    they were working on at the time.
+    
+    TDD is for units. Bottom up. xUnit.
+    BDD is for features. Top down. Cukes, Spock.
+    ATDD is for Teams - cycles of BDD/TDD to provide completion insight. Scrum/XP.
+    CDD is for integration proofing. Pact, Wiremock.
 
 They aren't like hair-styles or OS - they are purpose-specific. The type of testing
 you choose should be dependent on *what you are doing*.
